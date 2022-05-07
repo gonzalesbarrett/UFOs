@@ -11,7 +11,7 @@ To properly conduct analysis, user are able to filter the UFO sightings based on
 ## Results
 
 ### Link to UFO Sightings webpage
-The deployed webpage is accessible at [https://github.com/gonzalesbarrett/bagonzales.github.io]( https://gonzalesbarrett/bagonzales.github.io).
+The deployed webpage is accessible at [https://github.com/gonzalesbarrett/bagonzales.github.io]( https://gonzalesbarrett.github.io).
 
 ### Search Criteria Procedure
 
